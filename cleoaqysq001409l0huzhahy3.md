@@ -12,7 +12,7 @@ Virtual reality gaming has been around for several years, but it's only recently
 
 The [Oculus Quest 2](https://www.meta.com/quest/products/quest-2/), for example, is a powerful and affordable VR [gamepad controller](https://gamepadtest.com/) that has made virtual reality gaming accessible to a broader audience.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677591523023/d2ac52a3-2808-4b69-9835-637e4cd59bb8.jpeg align="center")
+![Young Women in Virtual Reality](https://cdn.hashnode.com/res/hashnode/image/upload/v1677591523023/d2ac52a3-2808-4b69-9835-637e4cd59bb8.jpeg align="center")
 
 ### The Benefits of Virtual Reality Gaming
 
@@ -20,7 +20,7 @@ Virtual reality gaming provides several benefits that traditional gaming cannot.
 
 This level of interactivity and immersion makes games more exciting and engaging. VR gaming also expands the types of games that are available, making previously impossible games a reality.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677591535077/14289026-32a3-449f-90b5-8b70593f4ce2.jpeg align="center")
+![Women Experiencing VR](https://cdn.hashnode.com/res/hashnode/image/upload/v1677591535077/14289026-32a3-449f-90b5-8b70593f4ce2.jpeg align="center")
 
 ### Social Interaction in VR Gaming
 
@@ -44,7 +44,7 @@ Developers are working on new ways to integrate haptic feedback, which will allo
 
 We can also expect to see more affordable and accessible VR headsets hitting the market, making VR gaming more accessible than ever before.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677591547729/d639e575-86c1-4aa0-98cd-a014b6d3ed4f.jpeg align="center")
+![3 Young Ladies Experiencing VR](https://cdn.hashnode.com/res/hashnode/image/upload/v1677591547729/d639e575-86c1-4aa0-98cd-a014b6d3ed4f.jpeg align="center")
 
 ### Conclusion
 
