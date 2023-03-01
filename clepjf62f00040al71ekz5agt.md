@@ -6,7 +6,7 @@ Video games have become an increasingly popular pastime for people of all ages.
 
 While some praise the benefits of gaming, others argue that it can have negative impacts on mental health.
 
-In this blog post, we'll examine both sides of the argument and explore the pros and cons of gaming on mental health.
+In this blog post, we'll examine both sides of the argument and explore the **pros and cons of gaming** on mental health.
 
 ### The Pros of Gaming
 
@@ -21,7 +21,7 @@ In this blog post, we'll examine both sides of the argument and explore the pros
 
 ### The Cons of Gaming
 
-1. **Addiction**: Gaming addiction is a real and growing concern. People who struggle with addiction to video games may neglect responsibilities, social relationships, and even physical health.
+1. **Addiction**: [Gaming addiction is a real and growing concern](https://wetechies.hashnode.dev/how-video-game-addiction-works-causes-symptoms-and-treatments). People who struggle with addiction to video games may neglect responsibilities, social relationships, and even physical health.
     
 2. **Aggressive Behavior**: Some studies have suggested a link between violent video games and aggressive behavior. While the evidence is not conclusive, it is something to consider.
     
@@ -32,10 +32,10 @@ In this blog post, we'll examine both sides of the argument and explore the pros
 
 ### Conclusion
 
-Overall, gaming can have both positive and negative impacts on mental health. Like most things in life, moderation is key.
+Overall, gaming can have both **positive** and **negative** impacts on mental health. Like most things in life, moderation is key.
 
 It's important to balance gaming with other activities and responsibilities and to be mindful of the amount of time spent playing.
 
-If you're struggling with gaming addiction or negative mental health effects, it's important to seek help from a mental health professional.
+If you're struggling with gaming addiction or **negative mental health effects**, it's important to seek help from a mental health professional.
 
 Ultimately, the decision to game or not is a personal one that should be made with consideration of the potential benefits and risks.
