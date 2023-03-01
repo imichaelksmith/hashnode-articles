@@ -4,25 +4,25 @@
 
 Esports, or competitive gaming, has rapidly grown into a global phenomenon over the past few years.
 
-With massive prize pools, dedicated fan bases, and professional teams and players, it's clear that esports is here to stay.
+With massive **prize pools**, **dedicated fan bases**, and **professional teams** and **players**, it's clear that esports is here to stay.
 
-In this blog, we'll explore the latest trends in esports, from new games and genres to the rise of female gamers and the impact of COVID-19.
+In this blog, we'll explore the latest trends in **esports**, from new games and genres to the rise of female gamers and the impact of **COVID-19**.
 
 ### The Explosion of Esports: A Brief History
 
-Esports has been around since the 1970s, but it wasn't until the late 2000s that it started to gain mainstream attention.
+Esports has been around since the **1970s**, but it wasn't until the late 2000s that it started to gain mainstream attention.
 
-Games like StarCraft and League of Legends paved the way for esports as we know it today.
+Games like [**StarCraft**](https://en.wikipedia.org/wiki/StarCraft) and [**League of Legends**](https://www.leagueoflegends.com/) paved the way for esports as we know it today.
 
-The industry has since exploded, with global events like The International and the League of Legends World Championship drawing in millions of viewers and offering millions of dollars in prize money.
+The industry has since exploded, with global events like The International and the **League of Legends World Championship** drawing in millions of viewers and offering millions of dollars in prize money.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677634561588/9ed35c16-afad-44a7-a5a6-c8884741f406.jpeg align="center")
 
 ### New Games and Genres
 
-Esports isn't just about MOBAs like League of Legends or first-person shooters like Counter-Strike: Global Offensive anymore.
+Esports isn't just about **MOBAs** like League of Legends or first-person shooters like **Counter-Strike: Global Offensive** anymore.
 
-In recent years, we've seen a surge in popularity for new genres, such as battle royales like Fortnite and Apex Legends, and card games like Hearthstone and Magic, The Gathering Arena.
+In recent years, with the [evolution of gaming consoles](https://wetechies.hashnode.dev/the-evolution-of-gaming-consoles-from-atari-to-playstation-5), we've seen a surge in popularity for new genres, such as battle royales like **Fortnite** and **Apex Legends**, and card games like Hearthstone and Magic, The Gathering Arena.
 
 These games have unique competitive formats that appeal to a wider range of players and audiences.
 
@@ -32,15 +32,15 @@ These games have unique competitive formats that appeal to a wider range of play
 
 Esports has traditionally been male-dominated, but that's starting to change.
 
-In recent years, we've seen a rise in female gamers, both as players and as fans.
+In recent years, we've seen a rise in **female gamers**, both as players and as fans.
 
-Female esports players have achieved success in games like Overwatch and CS:GO, and organizations like Women in Games and Girls Make Games are working to create more opportunities for women in the industry.
+Female esports players have achieved success in games like **Overwatch** and **CS:GO**, and organizations like Women in Games and Girls Make Games are working to create more opportunities for women in the industry.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677634581203/2a77f9e1-634e-40ef-8425-67d154e560d5.jpeg align="center")
 
 ### COVID-19's Impact on Esports
 
-Like many other industries, esports has been impacted by the COVID-19 pandemic.
+Like many other industries, esports has been impacted by the **COVID-19** pandemic.
 
 With in-person events canceled or postponed, esports organizations have had to adapt to online-only formats.
 
@@ -52,7 +52,7 @@ However, it has also presented new challenges, such as online cheating and techn
 
 ### The Future of Esports
 
-As esports continues to grow, it's clear that the industry is here to stay.
+As esports continues to grow, and [artificial intelligence is revolutionizing the gaming industry](https://wetechies.hashnode.dev/how-artificial-intelligence-is-revolutionizing-the-gaming-industry) it's clear that the industry is here to stay.
 
 In the coming years, we can expect to see even more new games and genres, as well as further expansion into mainstream media.
 
@@ -64,6 +64,6 @@ Esports teams and players will become even more recognizable and will continue t
 
 Esports has come a long way since its humble beginnings, and it's exciting to see where the industry is headed.
 
-With new games, rising stars, and the continued support of a passionate fan base, the future of esports is bright.
+With new games, **rising stars**, and the continued support of a passionate fan base, the future of esports is bright.
 
-As the world continues to adapt to the COVID-19 pandemic and beyond, esports will undoubtedly play an important role in shaping the future of gaming and entertainment.
+As the world continues to adapt to the **COVID-19 pandemic** and beyond, esports will undoubtedly play an important role in shaping the future of gaming and entertainment.
