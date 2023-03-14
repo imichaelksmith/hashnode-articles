@@ -46,7 +46,7 @@ The future of gaming in education is bright. As technology continues to advance,
 
 [**Virtual reality in gaming**](https://wetechies.hashnode.dev/exploring-the-world-of-virtual-reality-an-immersive-gaming-experience), for example, is already being used in some classrooms to provide students with a more realistic learning experience.
 
-Additionally, [the rise of gamification in education](https://wetechies.hashnode.dev/gaming-and-education-how-cross-platform-gaming-is-revolutionizing-learning) – the use of game elements in non-game contexts – is leading to more creative and engaging ways to teach.
+Additionally, [the rise of cross-platform games especially in education](https://wetechies.hashnode.dev/gaming-and-education-how-cross-platform-gaming-is-revolutionizing-learning) – the use of game elements in non-game contexts – is leading to more creative and engaging ways to teach.
 
 ### Conclusion
 
