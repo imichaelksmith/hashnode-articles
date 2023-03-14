@@ -32,7 +32,7 @@ Moreover, gaming hardware and software have become more **affordable**, enabling
 
 ### The Impact of Esports on Gaming Culture
 
-**Esports** has had a profound impact on gaming culture, transforming it from a solitary activity to a social one.
+[The latest trends in esports](https://wetechies.hashnode.dev/the-latest-trends-in-esports-a-deep-dive-into-competitive-gaming) have a profound impact on gaming culture, transforming it from a solitary activity to a social one.
 
 Today, gamers can connect with other players from around the world, watch professional players compete in tournaments, and attend live events to cheer for their favorite teams.
 
