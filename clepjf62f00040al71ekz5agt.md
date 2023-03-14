@@ -1,10 +1,18 @@
-# The Pros and Cons of Gaming: Examining the Effects of Video Games on Mental Health
+---
+title: "The Pros and Cons of Gaming: Examining the Effects of Video Games on Mental Health"
+datePublished: Wed Mar 01 2023 10:31:13 GMT+0000 (Coordinated Universal Time)
+cuid: clepjf62f00040al71ekz5agt
+slug: the-pros-and-cons-of-gaming-examining-the-effects-of-video-games-on-mental-health
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677633360446/02e35e7e-8328-4d20-8a54-98f0f64141ea.jpeg
+tags: gaming, video-games, mental-health
+
+---
 
 ## Introduction
 
 Video games have become an increasingly popular pastime for people of all ages.
 
-While some praise the benefits of gaming, others argue that it can have negative impacts on mental health.
+While some praise the [benefits of gaming for mental health](https://wetechies.hashnode.dev/the-surprising-benefits-of-gaming-on-mental-health-a-scientific-perspective), others argue that it can have negative impacts on mental health.
 
 In this blog post, we'll examine both sides of the argument and explore the **pros and cons of gaming** on mental health.
 
